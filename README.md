@@ -34,6 +34,4 @@
 
 Команда /очистить_расписание удаляет расписание указанного пользователя
 
-P.s в коде репозиторие отсутствует файл с токеном бота. Я не идиот, чтобы его добавлять)
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NHNMd0VwQU05WnRQYmIwZjNvbTJm@199.83.103.128:40555/?outline=1
+vless://86a3c619-d0cc-4e6f-8236-3e2b171df8d7@199.83.103.128:40498?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=B37NbcgcFGLrUsL7iYNfqAS_J6bXtvZtijVg8bFrayw&security=reality&sid=9fe61bfb&sni=www.sony.co.il&spx=%2Fb923725ec0df1e4&type=xhttp&x_padding_bytes=100-1000#p2
