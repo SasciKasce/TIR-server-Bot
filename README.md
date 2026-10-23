@@ -34,4 +34,4 @@
 
 Команда /очистить_расписание удаляет расписание указанного пользователя
 
-vless://86a3c619-d0cc-4e6f-8236-3e2b171df8d7@199.83.103.128:40498?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=B37NbcgcFGLrUsL7iYNfqAS_J6bXtvZtijVg8bFrayw&security=reality&sid=9fe61bfb&sni=www.sony.co.il&spx=%2Fb923725ec0df1e4&type=xhttp&x_padding_bytes=100-1000#p2
+vless://ede1085b-e29d-43f7-9721-265ea9cfc164@199.83.103.128:40498?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=B37NbcgcFGLrUsL7iYNfqAS_J6bXtvZtijVg8bFrayw&security=reality&sid=1de4&sni=www.sony.ca&spx=%2Fd71b1fc873b1890&type=xhttp&x_padding_bytes=100-1000#Roman
